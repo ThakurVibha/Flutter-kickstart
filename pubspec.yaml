@@ -52,3 +52,11 @@ flutter:
   assets:
     - images/
 
+  fonts:
+    - family: Comforta
+      fonts:
+        - asset: fonts/comforta_regular.ttf
+
+    - family: AsapCondenced
+      fonts:
+        - asset: fonts/asapcondenced.ttf
