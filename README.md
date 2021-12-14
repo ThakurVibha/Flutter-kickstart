@@ -1,4 +1,4 @@
-# 1 i_am_rich
+# 1. i_am_rich
 
 Lets get strated with flutter with few basics concepts and lets merge them together to build some basic and simple application.
 A new Flutter project.
@@ -13,13 +13,13 @@ For help getting started with Flutter,
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# 2 MiCard app 🎲
+# 2. MiCard app 🎲
 
 ## Our goal
 
 To built a simple single screen app for personal contact info card with the help of flutter basic widgets like scaffold, container, images etc.
 
-# 3 Dicee 🎲
+# 3. Dicee 🎲
 
 ## Our Goal
 
@@ -45,7 +45,7 @@ I have created a simple Las Vegas dice app. I can make the die roll at the press
 - Code and use gesture controls.
 
 
-# 4 Magic 8 Ball Challenge 🎱
+# 4. Magic 8 Ball Challenge 🎱
 
 ## My Goal
 
